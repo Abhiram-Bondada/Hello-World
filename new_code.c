@@ -6,3 +6,4 @@ int main()
   int sum = a+b;
   printf("%d\n",sum);
 }
+
